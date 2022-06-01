@@ -8,11 +8,11 @@ Telegram: @Nordrium
 Фрилансер  
 Стараюсь подтянуть JavaScript
 ## Навыки
-1. HTML5
-2. CSS\SCSS\SASS
-3. Различные CMS
-4. JS
-5. Figma
+  1. HTML5
+  2. CSS\SCSS\SASS
+  3. Различные CMS
+  4. JS
+  5. Figma
 ## Пример кода
 Не знаю что добавть
 ## Опыт работы
